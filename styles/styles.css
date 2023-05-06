@@ -22,7 +22,7 @@ html {
 }
 
 body {
-    background-image: url("https://cdn.pixabay.com/photo/2021/02/02/21/56/street-5975602_960_720.jpg"), url("../assets/background-img.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2021/02/02/21/56/street-5975602_960_720.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
